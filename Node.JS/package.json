@@ -1,0 +1,15 @@
+{
+  "name": "estudo1",
+  "version": "1.0.0",
+  "description": "estudo node js - ex1",
+  "main": "estudo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pedro cassettari",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
+}
